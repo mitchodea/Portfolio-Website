@@ -102,7 +102,7 @@ input, select, textarea {
 		color: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 15pt;
-		font-weight: 300 !important;
+		font-weight: 400 !important;
 		letter-spacing: -0.025em;
 		line-height: 1.75em;
 	}
@@ -200,10 +200,10 @@ input, select, textarea {
 /* BG */
 
 	#bg {
-		-moz-animation: bg 60s linear infinite;
-		-webkit-animation: bg 60s linear infinite;
-		-ms-animation: bg 60s linear infinite;
-		animation: bg 60s linear infinite;
+		-moz-animation: bg 90s linear infinite;
+		-webkit-animation: bg 90s linear infinite;
+		-ms-animation: bg 90s linear infinite;
+		animation: bg 90s linear infinite;
 		-moz-backface-visibility: hidden;
 		-webkit-backface-visibility: hidden;
 		-ms-backface-visibility: hidden;
@@ -551,7 +551,7 @@ input, select, textarea {
 		#header p {
 			font-size: 1.25em;
 			margin: 0.75em 0 0.25em 0;
-			opacity: 0.75;
+			opacity: 1;
 		}
 
 		#header nav {
